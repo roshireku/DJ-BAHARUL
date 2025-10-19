@@ -8,7 +8,7 @@
 Your bot collects the following data when used:  
 - **User IDs** (e.g., `862805844416528434`) – To identify users for bot functionality.  
 - **Server IDs** (e.g., `1256686383653847130`) – To store server-specific preferences.  
-- **Command Usage Data** (e.g., `/help`, `/play`, `/stop`, `/skip`) – To track usage for analytics and improvements.  
+- **Command Usage Data** (e.g., `/help`, `/channel add`, `/channel remove`, `/channel list`) – To track usage for analytics and improvements.  
 - **Voice Channel Activity** – To provide music playback (no voice data is recorded or stored).  
 
 ### **2. Why We Collect This Data**  
@@ -22,11 +22,10 @@ Your bot collects the following data when used:
 - **Security:** Access is restricted to the bot developer only.  
 
 ### **4. Third-Party Sharing**  
-- **No Selling/Sharing:** Data is **never** sold or shared with advertisers.  
-- **API Disclosure:** We use [list APIs, e.g., YouTube API, Lavalink] for music playback (subject to their policies).  
+- **No Selling/Sharing:** Data is **never** sold or shared with advertisers. 
 
 ### **5. Your Rights**  
-- **Data Deletion:** Request deletion via **[Your Contact Method]** (Discord/Email).  
+- **Data Deletion:** Request deletion via **[mail: roshirekuff@gmail.com]**
 - **Opt-Out:** Kick the bot to remove all server data instantly.  
 
 ### **6. Changes to This Policy**  
@@ -34,7 +33,7 @@ Updates will be posted at this URL. Continued use implies acceptance.
 
 ### **7. Contact**  
 For privacy concerns, contact:  
-- **Discord:** vakar_000  
+- **Discord:** ._snh  
 - **Email:** roshirekuff@gmail.com  
 
 ---
