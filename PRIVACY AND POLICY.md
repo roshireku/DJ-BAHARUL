@@ -9,7 +9,7 @@ Your bot collects the following data when used:
 - **User IDs** (e.g., `862805844416528434`) – To identify users for bot functionality.  
 - **Server IDs** (e.g., `1256686383653847130`) – To store server-specific preferences.  
 - **Command Usage Data** (e.g., `/help`, `/channel add`, `/channel remove`, `/channel list`) – To track usage for analytics and improvements.  
-- **Voice Channel Activity** – To provide music playback (no voice data is recorded or stored).  
+- **Channel Activity** – To change nickname (no massage data is recorded or stored).  
 
 ### **2. Why We Collect This Data**  
 - **Bot Functionality:** User/Server IDs are necessary for commands like playlists or settings.  
