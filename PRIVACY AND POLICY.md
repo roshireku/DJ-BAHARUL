@@ -1,7 +1,7 @@
 # DJ-BAHARUL
 ---
 
-# **Privacy Policy for "DJ BAHARUL" **  
+# **Privacy Policy for "XZH-NICKNAME-CHANGER" **  
 **Last Updated:** 02/07/2025 
 
 ### **1. Data We Collect**  
