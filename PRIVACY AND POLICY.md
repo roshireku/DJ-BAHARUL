@@ -33,7 +33,7 @@ Updates will be posted at this URL. Continued use implies acceptance.
 
 ### **7. Contact**  
 For privacy concerns, contact:  
-- **Discord:** ._snh  
+- **Discord:** .ibrah.  
 - **Email:** roshirekuff@gmail.com  
 
 ---
